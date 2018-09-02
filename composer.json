@@ -1,0 +1,16 @@
+{
+    "name": "karzakovaka/newproject",
+    "description": "newproject",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "SenyiaK",
+            "email": "karzakova.92@mail.ru"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "silex/silex": "~1.1"
+    }
+}
